@@ -5,16 +5,9 @@
 
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗    ███████╗
-██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║    ██╔════╝
-██████╔╝██║   ██║███████║██║   ██║   ███████║    ███████╗
-██╔══██╗██║   ██║██╔══██║██║   ██║   ██╔══██║    ╚════██║
-██║  ██║╚██████╔╝██║  ██║██║   ██║   ██║  ██║    ███████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0078D4&height=200&section=header&text=ROHITH%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Snowflake%20%7C%20Cloud%20%7C%20ETL&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Cognizant;Snowflake+%7C+ETL+%7C+Cloud+Data+Platforms;Building+pipelines+that+don't+break+at+3am.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Data+Engineer+;Snowflake+%7C+ETL+%7C+Cloud+Data+Platforms;Building+pipelines+that+don't+break+at+3am.)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +18,6 @@
 ```yaml
 name        : Rohith S
 role        : Data Engineer
-company     : Cognizant Technology Solutions
 location    : Tamil Nadu, India
 experience  : 3+ years
 domains     : Payroll Systems · Healthcare Claims
@@ -89,8 +81,4 @@ focus       : Snowflake · ETL/ELT · Cloud Migration
 
 </div>
 
----
-
-<div align="center">
-<sub>⚡ Profile auto-rendered · last commit counts more than last update</sub>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00FF9C&height=80&section=footer)
